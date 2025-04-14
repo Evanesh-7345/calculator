@@ -66,6 +66,7 @@ fun Calc_Screen(navController:NavHostController) {
         )
 
         // Operation buttons
+
         OutlinedButton(
             onClick = {
                 val myfirstnum= firstNum.text.trim()
